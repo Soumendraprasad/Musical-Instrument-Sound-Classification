@@ -27,3 +27,6 @@ In Test Set Total **80 audio files are present** , 20 From Each Class. Our work 
 7. [Model Test](#7)    
     
 <img src="https://www.scienceabc.com/wp-content/uploads/2019/08/Different-ethnic-music-instruments.-Save-culture.-Ethnic-world.-National-instruments.-ImageAnna_Kuzminas.jpg" width=400 height=550/>
+
+# Do Check Out My 👉 [Kaggle Profile](https://www.kaggle.com/soumendraprasad)
+# Do Check Out My 👉 [LinkedIn  Profile](https://www.linkedin.com/in/soumendra-prasad-mohanty-9338b9243/)
