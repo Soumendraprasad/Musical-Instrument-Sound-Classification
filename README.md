@@ -17,4 +17,13 @@ Here we have  4 types of different classes of musical instruments  .
 In Test Set Total **80 audio files are present** , 20 From Each Class. Our work is to **classify them** according to their classes .
 <font>
 
+ # <h1 style='background:#3b3a30; border:2; border-radius: 10px;padding-top: 2%;; font-size:200%; font-weight: bold; color:#c1502e'><center>Table of contents Of This Notebook</center></h1> 
+1. [Introduction](#1)   
+2. [Importing libraries](#2)
+3. [Explore the csv file](#3)  
+4. [Approach-1](#4)
+5. [Approach-2](#5)
+6. [Model](#6)     
+7. [Model Test](#7)    
+    
 <img src="https://www.scienceabc.com/wp-content/uploads/2019/08/Different-ethnic-music-instruments.-Save-culture.-Ethnic-world.-National-instruments.-ImageAnna_Kuzminas.jpg" width=400 height=550/>
