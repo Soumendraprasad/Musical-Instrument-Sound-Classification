@@ -1,7 +1,4 @@
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{soumendraprasad}/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{soumendraprasad}/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{soumendraprasad}/discussion)
-
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/simple/soumendraprasad)
 # Musical-Instrument-Sound-Classification
 Classification Of Musical Instrument by Their Sounds
 
